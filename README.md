@@ -1,1 +1,0 @@
-# Gemini-clone-with-react-js
